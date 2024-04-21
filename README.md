@@ -1,2 +1,2 @@
 # nihongo-flash
-Learn Japanese through flashcards.
+This application enables users to learn the Japanese language, specifically the kanji using flashcards. (Learning of kanji through vocabulary). My language goal is to read Dazai Osamu's No Longer Human in Japanese without any difficulties. So I'm going to build the vocabulary and flashcards based on that.
